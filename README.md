@@ -32,7 +32,7 @@ meteor add dc4ual:rocketchat-facebookbridge
 You need to do following things in order to make it work with your facebook messenger app.
 
 1. Login to Rocket chat admin panel and enable Livechat
-2. Go to FacebookBridge settings. You can search settings or directly go to ```/admin/FacebookBrdge```. Enable FacebookBridge and fill in Page Token, App secret and a random validation token.
+2. Go to FacebookBridge settings. You can search settings or directly go to ```/admin/FacebookBridge```. Enable FacebookBridge and fill in Page Token, App secret and a random validation token.
 3. In your messenger app add webhook url as ```<rocket-chat-app-url>/_fb_bridge_/webhook``` and use same validation token and save.
 4. You have to create at least one department with at least one agent.
 5. Enjoy...
