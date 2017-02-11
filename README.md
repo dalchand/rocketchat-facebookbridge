@@ -21,6 +21,11 @@ ln -s /path/to/this-package /path/to/Rocket.Chat/packages/rocketchat-facebookbri
 
 Also do the same for [rocketchat-external-file-access](https://github.com/dalchand/rocketchat-external-file-access)
 
+Add package to rocket chat app
+
+```
+meteor add dc4ual:rocketchat-facebookbridge
+```
 
 ### Make it work
 
